@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that answers questions from
 ## 📸 Demo
 
 <p align="center">
-  <img src="assets/screenshotproject.png" width="800"/>
+  <img src="assets/project2ui.png"/>
 </p>
 
 ---
